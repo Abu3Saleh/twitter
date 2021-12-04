@@ -1,1 +1,1 @@
-{'ver1':'2', 'ver2':'20'}
+{'ver1':'2', 'ver2':'40', 'ver3':'\n[DENEME] deneme1\n[DENEME] deneme2\n' , 'dli':'https://almobrmg-almohtref2019.blogspot.com/2021/03/twitter-gold-apk.html'}
