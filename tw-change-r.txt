@@ -1,6 +1,7 @@
-Version 2.40. Changelog:
+Version 2.50. Changelog:
 
->Update the base to the latest version in Google Play 
->Fixed an offline problem on some devices
->Adding a lot of new features
->Bugs Fixed
+>Update the base to the latest version in Google Play.
+>All new Twitter features added
+>Fixed some download bugs.
+>Fixed folder definition bugs.
+>Other minor fixes and some minor design changes.
