@@ -1,7 +1,5 @@
-Version 2.50. Changelog:
+Version 2.55 Register Changes:
 
->Update the base to the latest version in Google Play.
->All new Twitter features added
->Fixed some download bugs.
->Fixed folder definition bugs.
->Other minor fixes and some minor design changes.
+> [Update] Twitter Gold to the latest version 9.39.0 | Play shop. 
+> [Add] All new Twitter features have been added
+> [More] Improvements and other important fixes.
