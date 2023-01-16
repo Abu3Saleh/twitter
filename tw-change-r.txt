@@ -1,5 +1,7 @@
-Version 2.55 Register Changes:
+What's new in version 7.00:
 
-> [Update] Twitter Gold to the latest version 9.39.0 | Play shop. 
-> [Add] All new Twitter features have been added
-> [More] Improvements and other important fixes.
+>[Update] Twitter Gold base to the latest version 9.55.0 | Play Store.
+>[Add] All new Twitter features have been added.
+>[Add] Option to change API server (Twitter Gold add-ons > Downloads > Select API server).
+>[Add] Option to enter a custom API key (Twitter Gold add-ons > Downloads > Custom API key).
+>[More] Other improvements and fixes.
